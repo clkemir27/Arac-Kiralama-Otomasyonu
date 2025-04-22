@@ -1,0 +1,21 @@
+C:\Users\ÇELİK\source\repos\Rent A Car\Rent A Car\bin\Debug\Rent A Car.exe.config
+C:\Users\ÇELİK\source\repos\Rent A Car\Rent A Car\bin\Debug\Rent A Car.exe
+C:\Users\ÇELİK\source\repos\Rent A Car\Rent A Car\bin\Debug\Rent A Car.pdb
+C:\Users\ÇELİK\source\repos\Rent A Car\Rent A Car\obj\Debug\Rent A Car.csproj.AssemblyReference.cache
+C:\Users\ÇELİK\source\repos\Rent A Car\Rent A Car\obj\Debug\Rent_A_Car.Form1.resources
+C:\Users\ÇELİK\source\repos\Rent A Car\Rent A Car\obj\Debug\Rent_A_Car.Properties.Resources.resources
+C:\Users\ÇELİK\source\repos\Rent A Car\Rent A Car\obj\Debug\Rent A Car.csproj.GenerateResource.cache
+C:\Users\ÇELİK\source\repos\Rent A Car\Rent A Car\obj\Debug\Rent A Car.csproj.CoreCompileInputs.cache
+C:\Users\ÇELİK\source\repos\Rent A Car\Rent A Car\obj\Debug\Rent A Car.exe
+C:\Users\ÇELİK\source\repos\Rent A Car\Rent A Car\obj\Debug\Rent A Car.pdb
+C:\Users\ÇELİK\source\repos\Rent A Car\Rent A Car\obj\Debug\Rent_A_Car.MüşteriKayıt.resources
+C:\Users\ÇELİK\source\repos\Rent A Car\Rent A Car\obj\Debug\Rent_A_Car.Form2.resources
+C:\Users\ÇELİK\source\repos\Rent A Car\Rent A Car\obj\Debug\Rent_A_Car.İletişim.resources
+C:\Users\ÇELİK\source\repos\Rent A Car\Rent A Car\obj\Debug\Rent_A_Car.Şubelerimiz.resources
+C:\Users\ÇELİK\source\repos\Rent A Car\Rent A Car\obj\Debug\Rent_A_Car.Hakkımızda.resources
+C:\Users\ÇELİK\source\repos\Rent A Car\Rent A Car\obj\Debug\Rent_A_Car.SSS.resources
+C:\Users\ÇELİK\source\repos\Rent A Car\Rent A Car\obj\Debug\Rent_A_Car.MüşteriListesi.resources
+C:\Users\ÇELİK\source\repos\Rent A Car\Rent A Car\obj\Debug\Rent_A_Car.AraçKayıt.resources
+C:\Users\ÇELİK\source\repos\Rent A Car\Rent A Car\obj\Debug\Rent_A_Car.AraçListesi.resources
+C:\Users\ÇELİK\source\repos\Rent A Car\Rent A Car\obj\Debug\Rent_A_Car.Sözleşme.resources
+C:\Users\ÇELİK\source\repos\Rent A Car\Rent A Car\obj\Debug\Rent_A_Car.Satışlar.resources
